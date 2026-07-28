@@ -126,12 +126,6 @@ Open the local URL displayed in the terminal (typically `http://localhost:8501`)
 
 ---
 
-# 📸 Demo
-
-Add screenshots, GIFs, or a demo video.
-
----
-
 # 📈 Results
 
 * Successfully built an end-to-end AI storytelling application
