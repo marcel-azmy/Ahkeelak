@@ -40,12 +40,6 @@ The application leverages Large Language Models (LLMs), LangGraph, and Retrieval
 
 # 🛠️ Technologies Used
 
-List the technologies, frameworks, and tools used in this project.
-
----
-
-# ⚙️ Installation
-
 Programming Language
 * Python 3.11+
 
@@ -78,6 +72,12 @@ Other Libraries
 * Requests
 * Accelerate
 * FAISS
+
+---
+
+# ⚙️ Installation
+
+
 
 ---
 
