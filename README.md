@@ -76,9 +76,8 @@ Other Libraries
 # ⚙️ Installation
 
 * Clone the repositiry:
-	(git clone https://github.com/marcel-azmy/Ahkeelak.git)
-
-	(cd Ahkeelak)
+	- (git clone https://github.com/marcel-azmy/Ahkeelak.git)
+	- (cd Ahkeelak)
 
 * Install dependencies
   pip install -r requirements.txt
