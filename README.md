@@ -75,20 +75,34 @@ Other Libraries
 
 # ⚙️ Installation
 
-* Clone the repositiry:
-	- (git clone https://github.com/marcel-azmy/Ahkeelak.git)
-	- (cd Ahkeelak)
+## 1. Clone the repository
 
-* Install dependencies
-  pip install -r requirements.txt
+```bash
+git clone https://github.com/marcel-azmy/Ahkeelak.git
+cd Ahkeelak
+```
 
-* Start the backend
-  - Open the Ahkeelak.ipynb on google colab
-  - Set the runtime to T4 (GPU)
-  - Run the model
+## 2. Install the dependencies
 
-* Run the Streamlit application:
-  	(python -m streamlit run app.py)
+```bash
+pip install -r requirements.txt
+```
+
+## 3. Start the backend (Google Colab)
+
+- Open `Ahkeelak.ipynb` in Google Colab.
+- Set the runtime to **T4 GPU**.
+- Run all notebook cells.
+- Copy the generated **ngrok URL**.
+- Update the URL in `config.py`.
+
+## 4. Run the Streamlit application
+
+```bash
+python -m streamlit run app.py
+```
+
+Open the local URL displayed in the terminal (typically `http://localhost:8501`).
 
 
 ---
