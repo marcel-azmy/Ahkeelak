@@ -34,8 +34,6 @@ The application leverages Large Language Models (LLMs), LangGraph, and Retrieval
 * Retrieval-Augmented Generation (RAG) for context-aware responses
 * LangGraph workflow for structured generation
 * Streamlit web interface
-
-
 ---
 
 # 🛠️ Technologies Used
@@ -77,6 +75,21 @@ Other Libraries
 
 # ⚙️ Installation
 
+* Clone the repositiry:
+	(git clone https://github.com/marcel-azmy/Ahkeelak.git)
+
+	(cd Ahkeelak)
+
+* Install dependencies
+  pip install -r requirements.txt
+
+* Start the backend
+  - Open the Ahkeelak.ipynb on google colab
+  - Set the runtime to T4 (GPU)
+  - Run the model
+
+* Run the Streamlit application:
+  	(python -m streamlit run app.py)
 
 
 ---
