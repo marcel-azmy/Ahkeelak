@@ -94,7 +94,7 @@ pip install -r requirements.txt
 - Set the runtime to **T4 GPU**.
 - Run all notebook cells.
 - Copy the generated **ngrok URL**.
-- Update the URL in `config.py`.
+- Update the URL in Streamlit app interface.
 
 ## 4. Run the Streamlit application
 
